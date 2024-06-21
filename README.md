@@ -1,7 +1,7 @@
 [![MasterHead](AdobeStock_193576750_Preview.jpeg)](https://ankitg.net)
 <h1 align="center">Hi 👋, I'm Ankit Goyal</h1>
 <h3 align="center">A data aficionado with a passion for transforming raw information into actionable insights that drive real-world impact.</h3>
-<img align="center" alt="Coding" width="800" src="icegif-505.gif"/>
+<img align="right" alt="Coding" width="400" height="500" src="FullSizeRender.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitg28&label=Profile%20views&color=0e75b6&style=flat" alt="ankitg28" /> </p>
 
 - 👯 I’m looking to collaborate on **NLP, NLU and RAG Applications**
