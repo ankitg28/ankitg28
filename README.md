@@ -1,4 +1,3 @@
-[![MasterHead](AdobeStock_193576750_Preview.jpeg)](https://ankitg.net)
 <h1 align="center">Hi 👋, I'm Ankit Goyal</h1>
 <h3 align="center">A data aficionado with a passion for transforming raw information into actionable insights that drive real-world impact.</h3>
 <img align="right" alt="Coding" width="400" height="500" src="FullSizeRender.jpg"/>
