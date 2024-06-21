@@ -1,7 +1,7 @@
 [![MasterHead]()](https://ankitg.net)
 <h1 align="center">Hi 👋, I'm Ankit Goyal</h1>
 <h3 align="center">A data aficionado with a passion for transforming raw information into actionable insights that drive real-world impact.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/hacker-24/"/>
+<img align="center" alt="Coding" width="800" src="icegif-505.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitg28&label=Profile%20views&color=0e75b6&style=flat" alt="ankitg28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitg28" alt="ankitg28" /></a> </p>
