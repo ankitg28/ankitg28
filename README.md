@@ -1,4 +1,4 @@
-[![MasterHead]()](https://ankitg.net)
+[![MasterHead](AdobeStock_193576750_Preview.jpeg)](https://ankitg.net)
 <h1 align="center">Hi 👋, I'm Ankit Goyal</h1>
 <h3 align="center">A data aficionado with a passion for transforming raw information into actionable insights that drive real-world impact.</h3>
 <img align="center" alt="Coding" width="800" src="icegif-505.gif"/>
