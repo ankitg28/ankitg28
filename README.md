@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **NLP, NLU and RAG Applications**
 
-- 👨‍💻 All of my projects are available at [www.ankitg.net](www.ankitg.net)
+- 👨‍💻 All of my projects are available at [www.ankitg.net](https://www.ankitg.net)
 
 - 📝 I regularly write articles on [https://medium.com/aiskunks/travel-insurance-prediction-journey-from-dataset-selection-to-ui-based-prediction-44eeb996f778](https://medium.com/aiskunks/travel-insurance-prediction-journey-from-dataset-selection-to-ui-based-prediction-44eeb996f778)
 
